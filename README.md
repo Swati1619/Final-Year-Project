@@ -64,7 +64,7 @@ NEXUS introduces a unified AI + OS architecture where:
 
 ## 🌐 Project Website
 
-[Visit NEXUS Website]("Downloads\index.html")
+[Visit NEXUS Website](https://drive.google.com/file/d/1KgqdOLszO63BwcJw0eYQQC2R_htvSllT/view?usp=drive_link)
 
 ---
 
@@ -80,4 +80,13 @@ NEXUS introduces a unified AI + OS architecture where:
 [Watch Video](https://drive.google.com/file/d/1eLdep-kaqmyG4MVRShRgTJ0coiZ3FpKu/view?usp=sharing)
 
 ---
+
+## 💻 Project Source Code
+
+All source code files are available in this repository.
+
+👉 [View Project Code](https://drive.google.com/file/d/1JUzoUtAiC1sL5f3jSlruCdtCDyt4OsR2/view?usp=sharing)
+
+---
+
 
