@@ -64,13 +64,14 @@ NEXUS introduces a unified AI + OS architecture where:
 
 ## 📊 Project PPT / Report
 
-[View Project PDF]("NEXUS-An-Intelligent-Personal-AI-Operating-System.pdf")
+[View Project PDF]("https://drive.google.com/file/d/1fM1Ao3WcimiFR6ZdcsI6bq_m02vDxgJQ/view?usp=sharing")
+")
 
 ---
 
 ## 🎥 Project Demo Video
 
-[Watch Video]("NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4")
+[Watch Video]("https://drive.google.com/file/d/1eLdep-kaqmyG4MVRShRgTJ0coiZ3FpKu/view?usp=sharing")
 
 ---
 
