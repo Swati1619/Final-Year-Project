@@ -1,31 +1,76 @@
-# 🚀 Final Year Project
+# 🚀 NEXUS – Intelligent Personal AI Operating System
 
-## 📌 Title:
+## 📌 Project Overview
 
-NEXUS – An Intelligent Personal AI Operating System
+NEXUS is an advanced AI-powered operating system that transforms traditional computing into a smart, adaptive, and proactive environment. It integrates artificial intelligence directly into the OS core to automate tasks, understand user commands, and improve productivity.
 
-## 📖 Description:
+---
 
-This project is an AI-based system that works like a personal assistant. It can perform tasks, automate processes, and improve user productivity using intelligent algorithms.
+## ❗ Problem Statement
 
-## 🛠 Technologies Used:
+* Manual task execution in traditional OS
+* High cognitive load due to app switching
+* No built-in intelligence in current systems
 
-* Python
-* HTML/CSS
-* Machine Learning
-* AI Tools
+---
 
-## 📂 Project Files:
+## 💡 Proposed Solution
 
-All project source code is available in this repository.
+NEXUS introduces a unified AI + OS architecture where:
 
-## 📊 PPT:
+* AI works at the **system level**
+* Tasks are **automated intelligently**
+* Users interact via **voice and text commands**
 
-"C:\Users\SWATI\Downloads\NEXUS-An-Intelligent-Personal-AI-Operating-System.pdf"
+---
 
-## 🎥 Project Video:
+## ⚙️ Technologies Used
 
-"C:\Users\SWATI\Downloads\NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4"
+* Python 3.10
+* Tkinter (GUI)
+* SpeechRecognition & pyttsx3
+* PyAutoGUI
+* psutil
+* MySQL / SQLite
 
+---
 
+## 🔧 Key Features
+
+* 🤖 Smart Automation (file handling, app control)
+* 🎤 Voice Assistant (speech-to-text & text-to-speech)
+* 📊 System Monitoring (CPU, memory, battery)
+* 📚 Productivity Tools (study mode, resume builder)
+
+---
+
+## 🧠 System Architecture
+
+* Voice/Text Input
+* NLP Command Router
+* AI Decision Engine
+* OS Execution Module
+
+---
+
+## 📈 Benefits
+
+* Reduced task-switching
+* Faster execution
+* Improved productivity
+* Intelligent system interaction
+
+---
+
+## 📊 Project PPT / Report
+
+[View Project PDF]("C:\Users\SWATI\Downloads\NEXUS-An-Intelligent-Personal-AI-Operating-System.pdf")
+
+---
+
+## 🎥 Project Demo Video
+
+[Watch Video]("C:\Users\SWATI\Downloads\NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4")
+
+---
 
