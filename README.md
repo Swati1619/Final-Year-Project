@@ -65,7 +65,6 @@ NEXUS introduces a unified AI + OS architecture where:
 ## 📊 Project PPT / Report
 
 [View Project PDF]("https://drive.google.com/file/d/1fM1Ao3WcimiFR6ZdcsI6bq_m02vDxgJQ/view?usp=sharing")
-")
 
 ---
 
