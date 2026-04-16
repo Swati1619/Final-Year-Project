@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NEXUS Project</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    background: #f5f7fa;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 250px;
+    background: #0f2027;
+    color: white;
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-bottom: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: #ddd;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.sidebar a:hover {
+    background: #2c5364;
+}
+
+/* MAIN */
+.main {
+    margin-left: 270px;
+    padding: 40px;
+    width: 100%;
+}
+
+/* HERO */
+.hero {
+    background: linear-gradient(90deg, #0f2027, #2c5364);
+    color: white;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.hero img {
+    width: 60%;
+    margin-top: 20px;
+}
+
+/* SECTIONS */
+section {
+    margin-top: 40px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* GRID */
+.grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.box {
+    flex: 1;
+    min-width: 250px;
+    background: #eef3f7;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+/* BUTTON */
+.btn {
+    padding: 10px 20px;
+    background: #2c5364;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+video {
+    width: 100%;
+    border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h2>NEXUS</h2>
+
+<a href="#home">Home</a>
+<a href="#overview">Overview</a>
+<a href="#problem">Problem</a>
+<a href="#solution">Solution</a>
+<a href="#working">Working</a>
+<a href="#features">Features</a>
+<a href="#ppt">PPT</a>
+<a href="#video">Video</a>
+<a href="#work">Work Done</a>
+
+</div>
+
+<!-- MAIN -->
+<div class="main">
+
+<!-- HERO -->
+<section id="home" class="hero">
+<h1>NEXUS</h1>
+<p>Intelligent Automation System</p>
+<p>AI-Based Voice Command & Task Automation</p>
+
+<img src="D:\nexus_project\log.jpg.jpeg">
+<p><b>Think it. Say it. NEXUS does it.</b></p>
+</section>
+
+<!-- OVERVIEW -->
+<section id="overview">
+<h2>Project Overview</h2>
+<div class="card">
+<p>
+NEXUS is an AI-based intelligent automation system integrated with an existing operating system.
+It enables users to control system functions using voice commands and automated backend processing.
+</p>
+</div>
+</section>
+
+<!-- PROBLEM -->
+<section id="problem">
+<h2>Problem Statement</h2>
+<div class="grid">
+<div class="box">Manual system interaction</div>
+<div class="box">No intelligent automation</div>
+<div class="box">AI works separately</div>
+<div class="box">Time-consuming tasks</div>
+</div>
+</section>
+
+<!-- SOLUTION -->
+<section id="solution">
+<h2>Proposed Solution</h2>
+<div class="card">
+<p>
+NEXUS works as a smart assistant layer on top of the operating system.
+It automates tasks using voice commands without replacing the OS.
+</p>
+</div>
+</section>
+
+<!-- WORKING -->
+<section id="working">
+<h2>How NEXUS Works</h2>
+<div class="grid">
+<div class="box">🎤 Voice Input</div>
+<div class="box">🧠 AI Processing</div>
+<div class="box">⚙ Command Execution</div>
+<div class="box">🖥 Response</div>
+</div>
+</section>
+
+<!-- FEATURES -->
+<section id="features">
+<h2>Key Features</h2>
+
+<div class="grid">
+
+<div class="box">
+<b>Built-in Applications</b><br><br>
+Calculator – Perform calculations<br>
+Quiz – Interactive learning<br>
+Notes – Store important notes<br>
+Stopwatch – Time tracking<br>
+Library Management – Manage books<br>
+To-Do List – Task planning<br>
+Unit Converter – Convert units<br>
+Clock – Digital time display<br>
+Password Generator – Secure passwords<br>
+Student Record – Manage student data
+</div>
+
+<div class="box">
+<b>Smart Tools</b><br><br>
+Medical Report – Generate health reports<br>
+Resume – Create professional resumes<br>
+Research – Assist in study work<br>
+Study Mode – Focus environment
+</div>
+
+<div class="box">
+<b>System Control</b><br><br>
+Find File / Folder – Quick search<br>
+Backup – Data safety<br>
+Take Screenshot – Capture screen<br>
+Restart / Shutdown – System control<br>
+Security Monitoring – Monitor activity
+</div>
+
+<div class="box">
+<b>AI & Media Features</b><br><br>
+Voice Command Execution<br>
+Play Song<br>
+News Updates<br>
+Weather Information
+</div>
+
+</div>
+
+<div class="card">
+<p>
+NEXUS integrates multiple applications, smart tools, and system-level controls into a single intelligent system. 
+It allows users to perform tasks using voice commands, reducing manual effort, saving time, and improving productivity.
+</p>
+</div>
+
+</section>
+
+<!-- PPT -->
+<section id="ppt">
+<h2>PPT</h2>
+<div class="card">
+<a href="D:\nexus_project\NEXUS-Intelligent-Personal-AI-Operating-System.pdf" class="btn" target="_blank">View PPT</a></div>
+</section>
+
+<!-- VIDEO -->
+<section id="video">
+<h2>Demo Video</h2>
+<div class="card">
+<video controls>
+<source src="D:\nexus_project\NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4">
+</video>
+</div>
+</section>
+
+<!-- WORK DONE -->
+<section id="work">
+<h2>Work Done</h2>
+<div class="card">
+<ul>
+<li>Developed AI system</li>
+<li>Voice recognition integration</li>
+<li>Automation modules</li>
+<li>GUI design</li>
+<li>System monitoring</li>
+</ul>
+</div>
+</section>
+
+</div>
+</body>
+</html>
