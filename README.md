@@ -70,7 +70,7 @@ NEXUS introduces a unified AI + OS architecture where:
 
 ## 🎥 Project Demo Video
 
-[Watch Video]("C:\Users\SWATI\Downloads\NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4")
+[Watch Video]("NEXUS_an_Intelligent_Personal_AI_Operating_System.mp4")
 
 ---
 
